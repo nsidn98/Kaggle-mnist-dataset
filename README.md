@@ -1,2 +1,2 @@
 # Kaggle-mnist-dataset
-My first submission with not so good accuracy of 99.78%
+My first submission with a not so good accuracy of 99.78%
